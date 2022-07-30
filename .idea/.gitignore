@@ -8,4 +8,6 @@
 /dataSources.local.xml
 # IDE
 .idea
-.idea/*.xml
+*.xml
+*.iml
+
